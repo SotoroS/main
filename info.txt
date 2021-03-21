@@ -1,0 +1,82 @@
+stdClass Object
+(
+    [order] => stdClass Object
+        (
+            [order_id] => 14
+            [invoice_no] => 0
+            [invoice_prefix] => INV-2021-00
+            [store_id] => 0
+            [store_name] => Your Store
+            [store_url] => https://opencart.fokin-team.ru/
+            [customer_id] => 0
+            [firstname] => Jaos
+            [lastname] => f
+            [email] => eldark98@gmail.com
+            [telephone] => 6587698807
+            [custom_field] => Array
+                (
+                )
+
+            [payment_firstname] => Jaos
+            [payment_lastname] => f
+            [payment_company] => 
+            [payment_address_1] => ул.Казахская
+            [payment_address_2] => 
+            [payment_postcode] => 400002
+            [payment_city] => Волгоград
+            [payment_zone_id] => 3532
+            [payment_zone] => Cornwall
+            [payment_zone_code] => CORN
+            [payment_country_id] => 222
+            [payment_country] => United Kingdom
+            [payment_iso_code_2] => GB
+            [payment_iso_code_3] => GBR
+            [payment_address_format] => 
+            [payment_custom_field] => Array
+                (
+                )
+
+            [payment_method] => Cash On Delivery
+            [payment_code] => cod
+            [shipping_firstname] => Jaos
+            [shipping_lastname] => f
+            [shipping_company] => 
+            [shipping_address_1] => ул.Казахская
+            [shipping_address_2] => 
+            [shipping_postcode] => 400002
+            [shipping_city] => Волгоград
+            [shipping_zone_id] => 3532
+            [shipping_zone] => Cornwall
+            [shipping_zone_code] => CORN
+            [shipping_country_id] => 222
+            [shipping_country] => United Kingdom
+            [shipping_iso_code_2] => GB
+            [shipping_iso_code_3] => GBR
+            [shipping_address_format] => 
+            [shipping_custom_field] => Array
+                (
+                )
+
+            [shipping_method] => Flat Shipping Rate
+            [shipping_code] => flat.flat
+            [comment] => 
+            [total] => 130.0000
+            [order_status_id] => 1
+            [order_status] => Pending
+            [affiliate_id] => 0
+            [commission] => 0.0000
+            [language_id] => 1
+            [language_code] => en-gb
+            [currency_id] => 2
+            [currency_code] => USD
+            [currency_value] => 1.00000000
+            [ip] => 176.59.70.86
+            [forwarded_ip] => 
+            [user_agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36
+            [accept_language] => ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+            [date_added] => 2021-03-21 08:15:08
+            [date_modified] => 2021-03-21 08:15:09
+        )
+
+    [success] => Success: You have modified orders!
+)
